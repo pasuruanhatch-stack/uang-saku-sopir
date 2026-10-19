@@ -1,0 +1,9 @@
+{
+  "name": "Uang Saku Sopir Pasuruan Hatchery",
+  "short_name": "Uang Saku",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f3ef",
+  "theme_color": "#5a351e",
+  "description": "Pencatatan uang saku dan perjalanan sopir"
+}
